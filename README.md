@@ -40,9 +40,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Thanks to OpenAI for providing the GPT-3.5 language model.
-Contributing
-Feel free to contribute by opening issues or submitting pull requests.
+
 
 Contact
 For questions or feedback, contact your@email.com.
